@@ -1,2 +1,2 @@
-# tdi_capstone
-TDI capstone project: predicting the lengths of stay
+# TDI Capstone Project: Predict the Lengths of Stay
+Dataset from https://www.kaggle.com/nehaprabhavalkar/av-healthcare-analytics-ii
