@@ -21,4 +21,6 @@
 - Since many variables like hospital code, city and ward type are coded due to the original dataset, here I chose 4 categorical varibales (deaprtment, severity of illness, type of admission, and age) which have real meaning and can be used in daily business. In the Tableau dashboard, you can select on these 4 variables and see the predicted lengths of stay from my boosting algorithm model.
 - Tableau visulization of the LOS and predictions: https://public.tableau.com/profile/yiwenhz#!/vizhome/Capstone_16134903737260/Story1?publish=yes
 
-Data processing and model development are in capstone.ipynb 
+Train dataset from train_data.csv
+
+Data processing and model development are in Capstone.ipynb 
